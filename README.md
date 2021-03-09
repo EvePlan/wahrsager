@@ -1,1 +1,1 @@
-# wahrsager
+# Wahrsager App
